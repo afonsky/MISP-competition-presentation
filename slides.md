@@ -16,7 +16,7 @@ lineNumbers: false
 
 css: unocss
 title: AI in Particle Physics (Practical Course)
-subtitle: Kaggle Competition
+subtitle: ECAL Challenge
 date: 27/02/2026
 venue: HSE
 author: Alexey Boldyrev
