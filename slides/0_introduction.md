@@ -14,7 +14,7 @@ zoom: 0.85
 [https://colab.research.google.com/drive/16sBECz2y5KyyAlyqeYJeO_M-VO2st0DZ](https://colab.research.google.com/drive/16sBECz2y5KyyAlyqeYJeO_M-VO2st0DZ)
 
 * 1st/2nd/3rd place will be prized
-  * Top 3 teams are required to make 5' talks during awards ceremony
+  * Top 3 teams are required to make 5' talks about their solution during awards ceremony
 
 * The solutions must be executed in the Colab runtime using T4 GPU no longer than **20 minutes**
   * The solutions beyond this runtime limit will not be considered as competition winners
